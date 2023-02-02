@@ -9,3 +9,5 @@ Compilation instructions:
 Header and source files:
 Header: def.h, Client.h, Songify.h, AlbumArray.h, Album.h, SongArray.h, Song.h
 Source files: Client.cc, Songify.cc, AlbumArray.cc, Album.cc, SongArray.cc, Song.cc
+
+**Acheived a grade of 95% according to the required specifications**
